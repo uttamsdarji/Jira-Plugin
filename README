@@ -1,5 +1,0 @@
-Shows you how to write a simple plugin that adds a new tab (section) to JIRA's top-level menu, with a number of menu items in the section.
-
-Full documentation is always available at:
-
-https://developer.atlassian.com/display/JIRADEV/Plugin+Tutorial+-+Adding+your+own+Menu+Items+to+JIRA
